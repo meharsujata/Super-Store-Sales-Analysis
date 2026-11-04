@@ -8,7 +8,7 @@ The dashboard transforms historical sales data (2019–2020) into meaningful bus
 
 ## Dashboard Preview
 
-![Super Store Sales Dashboard](images/Super_Store_Sales_Dashboard.png)
+![Super Store Sales Dashboard](super_store_analysis_ss.png)
 
 ## Business Objectives
 
